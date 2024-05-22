@@ -4,7 +4,7 @@ I'm a passionate web developer from Israel.<br><br>
 
 💚 In love with the Nuxt ecosystem.<br>
 🔭 Happily freelancing as a web developer and tech lead.<br>
-⚡ In my spare time, I enjoy coding a lot, and stay active with sports like hitting the gym.<br>
+⚡ In my spare time, I enjoy coding a lot, and stay active with sports like biking and hitting the gym.<br>
 💼 I’m currently working on [torahlive.com](https://torahlive.com/), a platform aimed at providing enriching educational experiences.<br>
 🌱 I have a knack for learning new things quickly and adapting to evolving tech landscapes.
 
@@ -35,3 +35,4 @@ Let's connect on [LinkedIn](https://linkedin.com/in/meirroth)!
 ### 🔥 My stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=meirroth&show_icons=true&hide_border=true&theme=algolia&hide=stars&hide_title=true" alt="Stats" width="440">
+<img src="https://nuxters.nuxt.com/card/meirroth/og.png" alt="meirroth Nuxter profile" width="440">
